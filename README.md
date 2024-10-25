@@ -54,18 +54,12 @@ We performed several analyses and created visualizations to gain insights from t
 - [Add key findings or insights after completing your analysis]
 
 ## Requirements
-- Python 3.7+
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly (for interactive visualizations)
-- Geopandas (for geographical analysis, if applicable)
+- Business Intelligence tools
+- Power Bi
+- Tableau
+- QlikView
 
-## Installation and Setup
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/YourUsername/air-quality-analysis-indian-cities.git
-   cd air-quality-analysis-indian-cities
+## Author
+
+[Farhan Ashraf]
 
